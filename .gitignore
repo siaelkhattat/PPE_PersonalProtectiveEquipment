@@ -6,3 +6,4 @@ runs/
 *.pt
 .env
 kaggle.json
+!models/best.pt
